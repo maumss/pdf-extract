@@ -26,7 +26,7 @@ Choose de source folder
 - Search for PDF files and extract its images
 
 ## Credits
-Mauricio Soares da Silva - [maumss@users.noreply.github.com](mailto:maumss@users.noreply.github.com)
+Mauricio Soares da Silva - [maumss.git@gmail.com](mailto:maumss.git@gmail.com).
 
 ## License
 
